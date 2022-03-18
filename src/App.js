@@ -5,7 +5,7 @@ import './gretaApp.css'
 function App() {
   return (
     <p>
-      GRETA APP ~!
+      GRETA APP! ~!
     </p>
   );
 }
